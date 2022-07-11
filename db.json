@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "quzagumyde@mailinator.com",
+      "password": "$2a$10$3HMMMsK8qXkjvwuSfLC7SuFwB9rCd7BRidTIbHErdBHRcoo6vrHby",
+      "firstname": "Kay",
+      "lastname": "Ball",
+      "id": 1
+    },
+    {
+      "email": "example@example.com",
+      "password": "$2a$10$2HwpkQcqoYBZE4Fxl/.BAeTz.CqMYeP1ktouszRp5lsT2N4r/BJx6",
+      "firstname": "Mario",
+      "lastname": "Rossi",
+      "id": 2
+    },
+    {
+      "email": "m.rossi@example.com",
+      "password": "$2a$10$fTEikh4JdcsHdFbKpEf2wOWR/FITmnrh3WFWOVJobK0uBYV6MIOHy",
+      "firstname": "Mario",
+      "lastname": "Rossi",
+      "id": 3
+    },
+    {
+      "email": "xotar@mailinator.com",
+      "password": "$2a$10$gnyvXzzF5J419C6NBB/t7uB1ikq5Z00eQ.B5Z.OyfTaxCgpf8S4Da",
+      "firstname": "Whilemina",
+      "lastname": "Mccray",
+      "id": 4
+    },
+    {
+      "email": "bumimiw@mailinator.com",
+      "password": "$2a$10$ueQ1JyEW9LO4oRmXeMc47.5hWehDK3e.VlAQk6W0255p12wRLVC5O",
+      "firstname": "Harding",
+      "lastname": "Henson",
+      "id": 5
+    }
+  ]
+}

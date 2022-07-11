@@ -1,0 +1,10 @@
+<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+  <div class="navbar-nav">
+    <a class="nav-link" href="#" [routerLink]="['/home']" routerLinkActive="router-link-active">Home</a>
+    <a class="nav-link" href="#" [routerLink]="['/users']" routerLinkActive="router-link-active" >Users</a>
+    <a class="nav-link" href="#" [routerLink]="['/contact']" routerLinkActive="router-link-active" >Contact</a>
+    <a type="button" class="btn btn-outline-dark ms-5" [routerLink]="['/login']" routerLinkActive="router-link-active">Login</a>
+    <a type="button" class="btn btn-outline-success ms-1" [routerLink]="['/signup']" routerLinkActive="router-link-active">Signup</a>
+    <button type="button" class="btn btn-sm btn-outline-warning ms-1" (click)="logout()">Logout</button>
+  </div>
+</div>
